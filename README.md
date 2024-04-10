@@ -1,5 +1,5 @@
 <img align="center" src="https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
-<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
+<h1 align="center">Hi <img align="center" src="https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/chippi.gif" alt="gaurav-singh-62392821b" height="30" width="40" />, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav26singh&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav26singh" /> 
