@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Open source platforms**
 
-- 👨‍💻 All of my projects are available at [https://gauravportfolioiiits.netlify.app/](https://gauravportfolioiiits.netlify.app/)
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **gauravsinghgyan26@gmail.com**
